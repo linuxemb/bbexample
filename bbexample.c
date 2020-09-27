@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
   printf("Hello Yocto World.test on on desktop \n");
 
   printf("desktop test change to git protocol \n");
+  printf("desktop test meta-live  \n");
   LibHelloWorld();
 
   return 0;
