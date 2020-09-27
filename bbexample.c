@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
   printf("Hello Yocto World. test autorev in neptune after hard harsh.and 1st autorev build ok\n");
   printf("Hello Yocto World.test on TP5201 branch\n");
   printf("Hello Yocto World.test on TP5201 branch\n");
+  printf("Hello Yocto World.test on on desktop \n");
 
   LibHelloWorld();
 
